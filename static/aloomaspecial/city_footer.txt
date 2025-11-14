@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. How soon can I get a porta potty delivered in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most deliveries can be made the same day or within 24 hours, depending on your location and unit availability.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. How much does a portable toilet rental cost around #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Pricing varies based on type, duration, and number of units. We offer clear, upfront quotes for every rental.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Can I rent a portable toilet for a single day near #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes! We provide flexible short-term rentals for events and projects lasting just a few hours or one day.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Are the units sanitized before delivery in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. Every portable restroom is thoroughly cleaned, disinfected, and restocked before it reaches your site.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Do you have ADA-compliant portable toilets around #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we offer ADA-accessible units for public events, construction sites, and long-term use</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
